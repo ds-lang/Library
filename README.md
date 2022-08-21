@@ -1,2 +1,2 @@
 # Library
-DreamScript Default Library
+DreamScript Standard Library
